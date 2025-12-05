@@ -1,5 +1,5 @@
 ---
-title: 🌻 Garden Planters 🦋
+🌻 Garden Planters 🦋
 ---
 
 *A Strategic Game for Young Gardeners*
